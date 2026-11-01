@@ -1,8 +1,6 @@
 # 光之女皇 视觉重铸 · Empress Visual Reforge
 
-作者：丷米苏丷
-
-独立的 tPlainModLoader 扩展模组：让泰拉瑞亚 **光之女皇（Empress of Light）** 的外围攻击射弹发光。
+基于 [tPlainModLoader](https://github.com/github-user-64/tPlainModLoader) 的独立扩展模组：让泰拉瑞亚 **光之女皇（Empress of Light）** 的外围攻击射弹发光。
 
 ## 功能
 
@@ -40,6 +38,11 @@ dotnet build -c Release -p:TerrariaDir="D:\steam\steamapps\common\Terraria"
   "RainbowSpeed": 1.0
 }
 ```
+
+## 相关项目
+
+- [tPlainModLoader](https://github.com/github-user-64/tPlainModLoader)
+- [流光叠影 LightsAndShadows-TPML](https://github.com/misuOVO/LightsAndShadows-TPML)
 
 ## 版权
 
