@@ -18,7 +18,7 @@
 
 - .NET SDK（项目目标 `net472`）
 - XNA Framework 4.0
-- Terraria 1.4.5.8 + tPlainModLoader
+- Terraria 1.4.6.1 + tPlainModLoader
 
 ```powershell
 dotnet build -c Release -p:TerrariaDir="D:\steam\steamapps\common\Terraria"

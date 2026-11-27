@@ -11,3 +11,5 @@ config.json
 patch-errors.txt
 dll/
 
+
+dist/
